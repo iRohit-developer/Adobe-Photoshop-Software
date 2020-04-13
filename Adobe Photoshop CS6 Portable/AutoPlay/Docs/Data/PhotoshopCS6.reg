@@ -1,0 +1,934 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Reader]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Reader\11.0]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Reader\11.0\Capabilities]
+"ApplicationName"="Adobe Reader XI"
+"ApplicationDescription"="Adobe Reader XI is the trusted standard for reliably viewing,  printing, signing and commenting on PDF documents. It's the only PDF viewer that can open and interact with all types of PDF content - including forms and multimedia - and is available across leading desktop and mobile device platforms"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Reader\11.0\Capabilities\FileAssociations]
+".pdx"="PDXFileType"
+".xdp"="AcroExch.XDPDoc"
+".xfdf"="AcroExch.XFDFDoc"
+".fdf"="AcroExch.FDFDoc"
+".acrobatsecuritysettings"="AcroExch.acrobatsecuritysettings"
+".pdfxml"="AcroExch.pdfxml"
+".pdf"="AcroExch.Document.11"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Reader\11.0\Capabilities\MIMEAssociations]
+"application/vnd.adobe.xfd+xml"="AcroPDF.PDF"
+"application/vnd.adobe.xdp+xml"="AcroPDF.PDF"
+"application/vnd.fdf"="AcroPDF.PDF"
+"application/vnd.adobe.pdfxml"="AcroPDF.PDF"
+"application/vnd.adobe.acrobat-security-settings"="AcroPDF.PDF"
+"application/vnd.adobe.xfdf"="AcroPDF.PDF"
+"application/pdf"="AcroPDF.PDF"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Reader\11.0\Capabilities\UrlAssociations]
+"acrobat"="acrobat"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Reader\11.0\Installer]
+"ENU_GUID"="{AC76BA86-7AD7-1033-7B44-AB0000000001}"
+"ServiceControl"="603"
+@=""
+"ReinstallMode"="omus"
+"Path"="C:\\Program Files (x86)\\Adobe\\Reader 11.0\\"
+"InstallTime"="11:32:45"
+"InstallDate"="8/7/2019"
+"bUpdateModeSet"=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Reader\11.0\Installer\IOD]
+@="\"C:\\Program Files (x86)\\Adobe\\Reader 11.0\\Esl\\AiodLite.dll\""
+"Library"="C:\\Program Files (x86)\\Adobe\\Reader 11.0\\Esl\\AiodLite.dll"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Reader\11.0\Installer\Optimization]
+"Enabled"="YES"
+"DefragStatus"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Reader\11.0\Installer\Updates]
+@=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Reader\11.0\InstallPath]
+@="C:\\Program Files (x86)\\Adobe\\Reader 11.0\\Reader"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Reader\11.0\Language]
+"UI"="ENU"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Reader\11.0\Language\current]
+@="acrord32.dll"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Reader\11.0\Language\next]
+@="acrord32.dll"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe ARM]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe ARM\1.0]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe ARM\1.0\ARM]
+"iCheckReader"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0]
+"FreeBeforeSlopAdjust"=dword:0031d710
+"FreeSpace"=dword:001b217b
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0\ApplicationPath]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0\PluginPath]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Repair]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Repair\Acrobat Reader]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Repair\Acrobat Reader\11.0]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Repair\Acrobat Reader\11.0\IOD]
+@="\"C:\\Program Files (x86)\\Adobe\\Reader 11.0\\Esl\\aiodlite.dll\""
+"Library"="C:\\Program Files (x86)\\Adobe\\Reader 11.0\\Esl\\aiodlite.dll"
+
+[HKEY_CURRENT_USER\Software\Adobe]
+
+[HKEY_CURRENT_USER\Software\Adobe\0E8D6D05777A]
+@="1846B2DB82BEE8AD925BE9FC471062D61986960F"
+
+[HKEY_CURRENT_USER\Software\Adobe\254EAE657707]
+@="14DB6A64804997B8BF86C6ECF4024E2E5215F4BA"
+
+[HKEY_CURRENT_USER\Software\Adobe\48C897DA2418]
+@="32A9E6267AB3E8E05704763DFA32D02B3C8F51F1"
+
+[HKEY_CURRENT_USER\Software\Adobe\61C250045D82]
+@="FEA45F86DE46F0FD719074BF1F86F6EA6CE42049"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\11.0]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\11.0\AdobeViewer]
+"TrustedMode"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\11.0\Installer]
+"ENU_GUID"="{AC76BA86-7AD7-1033-7B44-AB0000000001}"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\11.0\InstallPath]
+@="C:\\Program Files (x86)\\Adobe\\Reader 11.0\\Reader"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp]
+"sLocale"=hex:65,6e,2d,75,73,00
+"iVersion"=dword:00131500
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cFavorites]
+"a0"="EPDFApp"
+"a1"="CPDFApp"
+"a2"="EditPDFRdrApp"
+"a3"="CommentApp"
+"a4"="CombinePDFRdrApp"
+"a5"="PagesRdrApp"
+"a6"="RedactPDFRdrApp"
+"a7"="ProtectPDFRdrApp"
+"a8"="OptimizePDFRdrApp"
+"a9"="FillSignApp"
+"a10"="ReviewPDFRdrApp"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cFeatured]
+"uVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c0]
+"tDescription"="Create a PDF from any format"
+"aID"="CPDFAppFull"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="CPDF_Full.aapp"
+"bShowLabels"=dword:00000000
+"tTitle"="Create PDF"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c1]
+"tDescription"="Convert a PDF to Microsoft Word, Excel, PowerPoint, and more"
+"aID"="EPDFAppFull"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="EPDF_Full.aapp"
+"bShowLabels"=dword:00000000
+"tTitle"="Export PDF"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c10]
+"tDescription"=""
+"aID"="AVHome"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Home.aapp"
+"bShowLabels"=dword:00000000
+"tTitle"="Home"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c11]
+"tDescription"=""
+"aID"="Viewer"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Viewer.aapp"
+"bShowLabels"=dword:00000000
+"tTitle"="Viewer"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c12]
+"tDescription"=""
+"aID"="InAppSigningApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="InAppSign.aapp"
+"bShowLabels"=dword:00000000
+"tTitle"=""
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c13]
+"tDescription"=""
+"aID"="UnifiedShareApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="UnifiedShare.aapp"
+"bShowLabels"=dword:00000000
+"tTitle"="UnifiedShare"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c14]
+"tDescription"="Convert a PDF to Microsoft Word, Excel, PowerPoint, and more"
+"aID"="EPDFApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000001
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="EPDF_RHP.aapp"
+"bShowLabels"=dword:00000000
+"tTitle"="Export PDF"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c15]
+"tDescription"="Create a PDF from any format"
+"aID"="CPDFApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000001
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="CPDF_RHP.aapp"
+"bShowLabels"=dword:00000000
+"tTitle"="Create PDF"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c16]
+"tDescription"="Combine multiple files into a single PDF"
+"aID"="CombinePDFRdrApp"
+"bInAppUpsellEnabled"=dword:00000001
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Combine_R_RHP.aapp"
+"bShowLabels"=dword:00000000
+"tTitle"="Combine Files"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c17]
+"tDescription"="Enhance PDF forms and connect to databases with JavaScript"
+"aID"="DeveloperRdrApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Developer_R_RHP.aapp"
+"bShowLabels"=dword:00000001
+"tTitle"="JavaScript"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c18]
+"tDescription"="Delete, insert, extract, or rotate pages"
+"aID"="PagesRdrApp"
+"bInAppUpsellEnabled"=dword:00000001
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Pages_R_RHP.aapp"
+"bShowLabels"=dword:00000000
+"tTitle"="Organize Pages"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c19]
+"tDescription"="Edit text and images in a PDF file"
+"aID"="EditPDFRdrApp"
+"bInAppUpsellEnabled"=dword:00000001
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Edit_R_RHP.aapp"
+"bShowLabels"=dword:00000000
+"tTitle"="Edit PDF"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c2]
+"tDescription"="Add comments with highlights, sticky notes, and markup tools"
+"aID"="CommentApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Comments.aapp"
+"bShowLabels"=dword:00000000
+"tTitle"="Comment"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c20]
+"tDescription"="Edit text and images in a PDF file"
+"aID"="EditPDFRdrAppFull"
+"bInAppUpsellEnabled"=dword:00000001
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Edit_R_Full.aapp"
+"bShowLabels"=dword:00000000
+"tTitle"="Edit PDF"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c21]
+"tDescription"="Edit text and images in a PDF file"
+"aID"="EditPDFRdrMenuApp"
+"bInAppUpsellEnabled"=dword:00000001
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Edit_R_Menu.aapp"
+"bShowLabels"=dword:00000000
+"tTitle"="Edit PDF"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c22]
+"tDescription"="Access more tools and enhanced functionalities"
+"aID"="MoreToolRHP"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="MoreTools.aapp"
+"bShowLabels"=dword:00000000
+"tTitle"="More Tools"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c23]
+"tDescription"="Index PDF files to speed search across document collections"
+"aID"="IndexRdrApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Index_R_RHP.aapp"
+"bShowLabels"=dword:00000001
+"tTitle"="Index"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c24]
+"tDescription"="Add audio, video, and interactive elements"
+"aID"="RichMediaRdrApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="RichMedia_R_RHP.aapp"
+"bShowLabels"=dword:00000001
+"tTitle"="Rich Media"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c25]
+"tDescription"="Permanently delete sensitive text, graphics, or hidden data"
+"aID"="RedactPDFRdrApp"
+"bInAppUpsellEnabled"=dword:00000001
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Redact_R_RHP.aapp"
+"bShowLabels"=dword:00000000
+"tTitle"="Redact"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c26]
+"tDescription"="Prevent others from copying, printing, and editing the information in PDFs"
+"aID"="ProtectPDFRdrApp"
+"bInAppUpsellEnabled"=dword:00000001
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Protect_R_RHP.aapp"
+"bShowLabels"=dword:00000001
+"tTitle"="Protect"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c27]
+"tDescription"="Reduce PDF file size, enable fast web view, and control image and font options"
+"aID"="OptimizePDFRdrApp"
+"bInAppUpsellEnabled"=dword:00000001
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="OptimizePDF_R_RHP.aapp"
+"bShowLabels"=dword:00000000
+"tTitle"="Optimize PDF"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c28]
+"tDescription"="Reduce PDF file size, enable fast web view, and control image and font options"
+"aID"="OptimizePDFRdrCtxApp"
+"bInAppUpsellEnabled"=dword:00000001
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="OptimizePDF_R_CTX.aapp"
+"bShowLabels"=dword:00000000
+"tTitle"="Optimize PDF"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c29]
+"tDescription"="Invite people to review a shared file and track responses"
+"aID"="ReviewPDFRdrApp"
+"bInAppUpsellEnabled"=dword:00000001
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Review_RHP.aapp"
+"bShowLabels"=dword:00000001
+"tTitle"="Send for Review"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c3]
+"tDescription"="Fill and sign forms or get them signed from others"
+"aID"="FillSignApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="FillSign.aapp"
+"bShowLabels"=dword:00000000
+"tTitle"="Fill & Sign"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c30]
+"tDescription"="Turn scans or photos of paper documents into searchable PDFs with selectable text"
+"aID"="ScanPDFRdrApp"
+"bInAppUpsellEnabled"=dword:00000001
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Scan_R_RHP.aapp"
+"bShowLabels"=dword:00000000
+"tTitle"="Scan & OCR"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c31]
+"tDescription"="Edit text and images in a PDF file"
+"aID"="EditPDFRdrExpApp"
+"bInAppUpsellEnabled"=dword:00000001
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Edit_R_Exp_RHP.aapp"
+"bShowLabels"=dword:00000000
+"tTitle"="Edit PDF"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c32]
+"tDescription"="Create and verify PDF files to meet accessibility standards for people with disabilities"
+"aID"="AccessibilityRdrApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Accessibility_R_RHP.aapp"
+"bShowLabels"=dword:00000000
+"tTitle"="Accessibility"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c33]
+"tDescription"="Use guided actions to standardize routine PDF tasks"
+"aID"="ActionsRdrApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Actions_R_RHP.aapp"
+"bShowLabels"=dword:00000001
+"tTitle"="Action Wizard"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c34]
+"tDescription"="Compare and highlight the differences between 2 files"
+"aID"="CompareRdrApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000002
+"iMinorVersion"=dword:00000000
+"tPath"="Compare_R_RHP.aapp"
+"bShowLabels"=dword:00000001
+"tTitle"="Compare Files"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c35]
+"tDescription"="Create a customized collection of Acrobat features and share it with others"
+"aID"="CreateCustomUIRdrApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="CreateCustom_R_RHP.aapp"
+"bShowLabels"=dword:00000000
+"tTitle"="Create Custom Tool"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c36]
+"tDescription"="Create PDF/A, PDF/E, or PDF/X files to comply with ISO standards"
+"aID"="StandardsRdrApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Standards_R_RHP.aapp"
+"bShowLabels"=dword:00000001
+"tTitle"="PDF Standards"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c37]
+"tDescription"="Preview, preflight, correct, and prepare PDF files for high-end print production"
+"aID"="PrintProductionRdrApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="PrintProduction_R_RHP.aapp"
+"bShowLabels"=dword:00000000
+"tTitle"="Print Production"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c38]
+"tDescription"="Quickly convert Microsoft Word and Excel or scanned forms into PDF forms"
+"aID"="FormsRdrApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Forms_R_RHP.aapp"
+"bShowLabels"=dword:00000001
+"tTitle"="Prepare Form"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c4]
+"tDescription"="Get documents signed electronically and track results"
+"aID"="CollectSignaturesApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="CollectSignatures.aapp"
+"bShowLabels"=dword:00000000
+"tTitle"="Adobe Sign"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c5]
+"tDescription"="Share files for viewing or review and track responses"
+"aID"="SendAppFull"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="TrackedSend.aapp"
+"bShowLabels"=dword:00000000
+"tTitle"="Share"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c6]
+"tDescription"="Add stamps such as 'approved' or 'draft'"
+"aID"="StampApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Stamp.aapp"
+"bShowLabels"=dword:00000001
+"tTitle"="Stamp"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c7]
+"tDescription"="Digitally sign or certify documents and validate authenticity"
+"aID"="CertificatesApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Certificates_R.aapp"
+"bShowLabels"=dword:00000001
+"tTitle"="Certificates"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c8]
+"tDescription"="Measure distance, area, and perimeter of objects"
+"aID"="MeasureApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Measure.aapp"
+"bShowLabels"=dword:00000001
+"tTitle"="Measure"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AcroApp\cRegistered\c9]
+"tDescription"=""
+"aID"="ToolsCenter"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="AppCenter_R.aapp"
+"bShowLabels"=dword:00000000
+"tTitle"="Tools"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1\caccounts]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1\caccounts\cdef]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1\cconnectors]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1\cconnectors\cen0us]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1\corder]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1\corder\cen0us]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1\corder\cen0us\corder_for_add]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1\corder\cen0us\corder_for_add\c0]
+"ssection_key"=hex:61,64,6f,62,65,5f,74,6f,6f,6c,73,00
+"tsection_label"="Featured Storage"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1\corder\cen0us\corder_for_add\c0\csection_order]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1\corder\cen0us\corder_for_add\c0\csection_order\c0]
+"balwaysAppear"=dword:00000000
+"sname"=hex:62,6f,78,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1\corder\cen0us\corder_for_add\c0\csection_order\c1]
+"balwaysAppear"=dword:00000000
+"sname"=hex:64,72,6f,70,62,6f,78,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1\corder\cen0us\corder_for_add\c0\csection_order\c2]
+"balwaysAppear"=dword:00000000
+"sname"=hex:67,6f,6f,67,6c,65,44,72,69,76,65,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1\corder\cen0us\corder_for_add\c0\csection_order\c3]
+"balwaysAppear"=dword:00000000
+"sname"=hex:6f,6e,65,64,72,69,76,65,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1\corder\cen0us\corder_for_add\c0\csection_order\c4]
+"balwaysAppear"=dword:00000000
+"sname"=hex:6f,6e,65,64,72,69,76,65,62,75,73,69,6e,65,73,73,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1\corder\cen0us\corder_for_add\c0\csection_order\c5]
+"balwaysAppear"=dword:00000000
+"sname"=hex:64,65,73,6b,74,6f,70,5f,73,68,61,72,65,70,6f,69,6e,74,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1\corder\cen0us\corder_for_file_sel_dlg]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1\corder\cen0us\corder_for_file_sel_dlg\c0]
+"balwaysAppear"=dword:00000000
+"sname"=hex:62,6f,78,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1\corder\cen0us\corder_for_file_sel_dlg\c1]
+"balwaysAppear"=dword:00000000
+"sname"=hex:64,72,6f,70,62,6f,78,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1\corder\cen0us\corder_for_file_sel_dlg\c2]
+"balwaysAppear"=dword:00000000
+"sname"=hex:67,6f,6f,67,6c,65,44,72,69,76,65,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1\corder\cen0us\corder_for_file_sel_dlg\c3]
+"balwaysAppear"=dword:00000000
+"sname"=hex:6f,6e,65,64,72,69,76,65,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1\corder\cen0us\corder_for_file_sel_dlg\c4]
+"balwaysAppear"=dword:00000000
+"sname"=hex:6f,6e,65,64,72,69,76,65,62,75,73,69,6e,65,73,73,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1\corder\cen0us\corder_for_file_sel_dlg\c5]
+"balwaysAppear"=dword:00000000
+"sname"=hex:64,65,73,6b,74,6f,70,5f,73,68,61,72,65,70,6f,69,6e,74,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1\corder\cen0us\corder_for_left_rail]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1\corder\cen0us\corder_for_left_rail\c0]
+"balwaysAppear"=dword:00000000
+"sname"=hex:62,6f,78,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1\corder\cen0us\corder_for_left_rail\c1]
+"balwaysAppear"=dword:00000000
+"sname"=hex:64,72,6f,70,62,6f,78,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1\corder\cen0us\corder_for_left_rail\c2]
+"balwaysAppear"=dword:00000000
+"sname"=hex:67,6f,6f,67,6c,65,44,72,69,76,65,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1\corder\cen0us\corder_for_left_rail\c3]
+"balwaysAppear"=dword:00000000
+"sname"=hex:6f,6e,65,64,72,69,76,65,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1\corder\cen0us\corder_for_left_rail\c4]
+"balwaysAppear"=dword:00000000
+"sname"=hex:6f,6e,65,64,72,69,76,65,62,75,73,69,6e,65,73,73,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConnector\cv1\corder\cen0us\corder_for_left_rail\c5]
+"balwaysAppear"=dword:00000000
+"sname"=hex:64,65,73,6b,74,6f,70,5f,73,68,61,72,65,70,6f,69,6e,74,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConversionFromPDF]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConversionFromPDF\cSettings]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConversionToPDF]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVConversionToPDF\cSettings]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVEntitlement]
+"bAppInitialized"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVGeneral]
+"iNumReaderLaunches"=dword:00000004
+"uThemeBackgroundColor"=dword:00fbfbfb
+"bTrySystemTheme"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVGeneral\cTaskPanes]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\AVGeneral\cTaskPanes\cBasicCommentPane]
+"bAllowMultipleExpandedPanels"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\ExitSection]
+"bLastExitNormal"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\FlashDebug]
+"bAutomationEnabled"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\FTEDialog]
+"bShowInstallFTE"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\HomeWelcomeFirstMileReader]
+"iCardCountShown"=dword:00000001
+"iCurrentRHSCard"=dword:00000013
+"bHasShownSignInCard"=dword:00000001
+"sLastTimeShown"=hex:31,39,31,32,32,33,30,34,33,36,33,39,5a,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\Installer]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\Installer\Migrated]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\Language]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\Language\current]
+@="acrord32.dll"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\Language\next]
+@="acrord32.dll"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\Language\UseMUI]
+"bUseMUI"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\OnBoardingSection]
+"sappVersion"=hex:32,30,31,39,32,31,00
+"ihomeViewVersion"=dword:00000000
+"slocale"=hex:65,6e,2d,75,73,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\OnBoardingSection\chomeView]
+"sBannerContent"=hex:57,6f,72,6b,20,6f,6e,20,74,68,65,20,67,6f,20,77,69,74,68,\
+  20,74,68,65,20,41,64,6f,62,65,20,41,63,72,6f,62,61,74,20,52,65,61,64,65,72,\
+  20,61,70,70,2e,20,41,6e,6e,6f,74,61,74,65,2c,20,73,69,67,6e,2c,20,61,6e,64,\
+  20,73,68,61,72,65,20,50,44,46,73,20,6f,6e,20,79,6f,75,72,20,70,68,6f,6e,65,\
+  2c,20,61,6e,64,20,65,64,69,74,20,6f,6e,20,74,61,62,6c,65,74,73,2e,00
+"sBannerTitle"=hex:47,65,74,20,41,70,70,00
+"sCardContent"=hex:41,63,72,6f,62,61,74,4d,6f,62,69,6c,65,43,61,72,64,00
+"sCardTitle"=hex:4d,6f,62,69,6c,65,41,63,72,6f,62,61,74,43,61,72,64,00
+"sCardType"=hex:4c,61,75,6e,63,68,46,54,45,43,61,72,64,00
+"sOffset"=hex:34,33,38,30,30,00
+"ifirst_display"=dword:0006af3c
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\Originals]
+"bDisplayedSplash"=dword:00000001
+"sProofingSpace"=hex:55,2e,53,2e,20,57,65,62,20,43,6f,61,74,65,64,20,28,53,57,\
+  4f,50,29,20,76,32,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\SDI]
+"bMaximizeNextDocument"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\DC\Selection]
+"aDefaultSelect"="Select"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\DiskCabs]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe ARM]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe ARM\1.0]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe ARM\1.0\ARM]
+"tTimeWaitedFilesInUse_Reader"="9828492411thsnY01000000D08C9DDF0115D1118C7A00C04FC297EB01000000E426D27624E02A479F2B204F92A0AD2E000000002800000045006E0063007200790070007400650064002000620079002000410064006F00620065002E00000010660000000100002000000017ED3456C35AABAE4AC66AC397801A5935C5C606BB636153E28414F378C32D44000000000E8000000002000020000000E1F6554D8616F5A7A706E29804BE3639AA7EBF598502E4DFE82BF191F34F70E21000000009BD2C3E27E98A19AB8AFB6F13D3B6F6400000004F8D8E577B944C4CB0342627F8DB06384FBA9F36A0892BEBE0D573E071FD3C97D9CED009A3CA8090DF1E2A1DCA248D72540E08A91C90D5B72A9B7600E25D606A"
+"tLastT_Reader"="9828492411thsnY01000000D08C9DDF0115D1118C7A00C04FC297EB01000000E426D27624E02A479F2B204F92A0AD2E000000002800000045006E0063007200790070007400650064002000620079002000410064006F00620065002E000000106600000001000020000000E0EA17C10603A732DAC7EA2EAFE5B92BE3539536303DAC06771F8742D2479A22000000000E8000000002000020000000516E7B7B18BBC67EF120A0602C3DC42D4B4449127D0BB6CC6863CAACBB528D3720000000CF828C767E9E30F0536297983B68A68EBA9195CDB6C41B47D1DFFA531022C5AA4000000004C1465A9BE7DA480E23E3C78574CD1A915FA312AD114A968DBD520E853756F68499C9404EB6C4A92E653A7671E0177EC05F84BD58BB7147B2D4931A7AA880D1"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Synchronizer]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Synchronizer\DC]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Synchronizer\DC\Acrobat.com]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Synchronizer\DC\Acrobat.com.v2]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage]
+"GUID"="03e58591-5897-4f59-9fd3-9b63cb5e4942"
+"Agent"="E:\\Adobe Photoshop CS6 Portable\\AutoPlay\\Docs\\App\\PhotoshopCS6\\"
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\AcrobatDC]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6]
+"OptIn"=dword:00000000
+"Date"="2020-01-09T16:32:02Z"
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6Headlights]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6Headlights\Adobe Photoshop CS6]
+"Prerelease"=dword:00000000
+"Build"="13.0 20120315.r.428 2012/03/15:21:00:00"
+"LaunchCounter"=dword:00000005
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6_CS6_Adobe Photoshop CS6_13.0]
+"OptIn"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\Reader 11]
+"throttle"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\Reader 19_Acrobat19_Reader_19.21.20061]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\Reader DC]
+
+[HKEY_CURRENT_USER\Software\Adobe\D8D562E79D6F]
+@="F2D6075B30BADF1BA5F6A2B845ED6B6EE0428664"
+
+[HKEY_CURRENT_USER\Software\Adobe\IAC]
+"UserID"="204FD0759F1F43F480C9BFDCA1B3124A"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-08-10T00:50:14.9690Z]
+@="C:\\Users\\SONY\\Downloads\\imotleyerp.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-08-12T05:02:41.6821Z]
+@="C:\\Users\\Personal\\Desktop\\002.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-08-12T05:21:45.2862Z]
+@="C:\\Users\\Personal\\Desktop\\motley2.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-08-12T16:37:37.8070Z]
+@="C:\\Users\\SONY\\Downloads\\imotleyerp (1).png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-12-23T15:08:13.5040Z]
+@="C:\\Users\\user\\Desktop\\Eklavya\\images\\logo.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-12-29T12:42:14.400Z]
+@="C:\\xampp\\htdocs\\ts_ekalavya\\app\\images\\about\\3.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-12-29T12:42:17.8841Z]
+@="C:\\xampp\\htdocs\\ts_ekalavya\\app\\images\\about\\4.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-12-29T12:44:48.8072Z]
+@="C:\\xampp\\htdocs\\ts_ekalavya\\app\\images\\about\\2.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-09T16:32:36.8730Z]
+@="C:\\Users\\user\\Downloads\\dashboard.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-09T16:34:14.8611Z]
+@="C:\\xampp\\htdocs\\ts_ekalavya\\app\\images\\navbar-bg\\hero_image.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-11T02:06:06.5590Z]
+@="C:\\Users\\user\\Desktop\\c.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-13T17:00:39.5030Z]
+@="C:\\Users\\user\\Downloads\\WhatsApp Image 2020-01-13 at 18.35.01.jpeg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-13T17:04:10.3782Z]
+@="C:\\Users\\user\\Downloads\\WhatsApp Image 2020-01-13 at 22.28.28.jpeg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-13T17:06:01.393Z]
+@="C:\\Users\\user\\Desktop\\Capture.PNG"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-13T17:36:18.8134Z]
+@="C:\\Users\\user\\Desktop\\krishna.PNG"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-16T04:11:43.6270Z]
+@="C:\\Users\\user\\Downloads\\Sreeyan -New Logo.jpeg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-16T04:16:02.4091Z]
+@="C:\\Users\\user\\Desktop\\sreeyannewlogo.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-02-10T15:05:48.3680Z]
+@="C:\\Users\\user\\Desktop\\magazine\\images\\logo.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-02-10T15:11:43.1771Z]
+@="C:\\Users\\user\\Desktop\\magazine\\images\\main-logo.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-02-12T15:42:18.6330Z]
+@="C:\\Users\\user\\Downloads\\PBCK600.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-02-12T15:43:31.8261Z]
+@="C:\\xampp\\htdocs\\mg\\dashboard\\PBCK600.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-03-24T11:12:15.2010Z]
+@="C:\\xampp\\htdocs\\amf\\app\\img\\form-bg.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop]
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\60.0]
+"uiLanguageKey CS6"="en_US"
+"oldPaletteFontTypeKey CS6"=dword:00000000
+"MemoryUsage"=dword:0000003c
+"AppWindowPosition"="[-7,0,768,1032]"
+"ShowStatusWindow"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\60.0\VisitedDirs]
+"STARTUPIMAGEDIRECTORY"="C:\\xampp\\htdocs\\amf\\app\\img\\"
