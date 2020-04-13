@@ -1,1 +1,1 @@
-# Adobe-Photoshope-Software
+# Adobe-Photoshop-Software
